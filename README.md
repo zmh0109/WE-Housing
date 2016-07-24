@@ -6,8 +6,8 @@
 
 3) only show apartment name in details
 
-4) Function implementd: 1. Apartment sort according to Price/Name/Popularity 
+4) Function implemented: 1. Apartment sort according to Price/Name/Popularity 
                         2. Search for Apartments based on information
                         3. Pagination results
 
-5) Additional aprtment data is added 
+5) Additional aprtment data is added manually
